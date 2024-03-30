@@ -1,0 +1,14 @@
+.user_data_card {
+	width: 100%;
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	background-color: #eeeeee9c;
+}
+
+.user_data_card .image {
+	width: 100px;
+	height: 100px;
+	background-color: #eee;
+	margin: 0 15px 0 0;
+}

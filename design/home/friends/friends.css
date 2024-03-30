@@ -1,0 +1,7 @@
+main {
+	flex-direction: column;
+}
+
+main .user_data_card {
+	margin-top: 18px;
+}
